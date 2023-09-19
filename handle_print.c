@@ -1,8 +1,3 @@
-
-handle_print.c CODE
-
-
-
 #include "main.h"
 /**
  * handle_print - Prints an argument based on its type
